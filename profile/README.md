@@ -9,7 +9,7 @@ Telecomunicaciones orientadas al IoT busca formar tecnicos que puedan desempeña
 * Desarrollo de dispositivos para el IoT  
   
 ## La materia  
-Electronica microcontrolada es una materia anual con una carga de 288 horas, la misma sera impartida en 8 unidades a lo largo de 28 semanas y su valoracion se realizara en forma semanal con trabajos practicos personales y en forma mensual con proyectos grupales. 
+Proyecto Integrador es una materia anual con una carga de 288 horas, la misma sera impartida en 8 unidades a lo largo de 28 semanas y su valoracion se realizara en forma semanal con trabajos practicos personales y en forma mensual con proyectos grupales. 
 
 En la misma aprendera:  
 * A desarrollar prototipos things, almacenamiento, apis, back y front. 
